@@ -1,1 +1,2 @@
 addding new document file
+learning git the hardway
